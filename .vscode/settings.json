@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "Algorithms 1/Exercises/Percolation/.lift/algs4.jar",
+    "Algorithms 1/Exercises/Percolation/.lift/checkstyle-lift.jar"
+  ]
+}
