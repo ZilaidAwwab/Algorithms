@@ -22,7 +22,6 @@ This repo contains the code and exercise solution of Algorithms I and II course 
     Graham scan
     Kd-trees. 
 
-
 # Part II
     Depth-first search
     Breadth-first search
