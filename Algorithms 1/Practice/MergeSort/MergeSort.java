@@ -59,10 +59,4 @@ public class MergeSort {
       else a[k] = aux[i++];
     }
   }
-
-  public static void main(String[] args) {
-    Comparable[] arr = {3, 6, 1, 9, 2, 0, 7, 5, 8, 4};
-    MergeSort.sort(arr);
-    System.out.println(arr);
-  }
 }
