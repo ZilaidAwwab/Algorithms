@@ -27,3 +27,16 @@ Chpater: 1 (Fundamentals)
     14. QuickFind
     15. QuickUnion
     16. WeightedQuickUnion
+
+Chapter: 2 (Sorting)
+
+    Exercise 2.1
+    17. SelectionSort
+    18. InsertionSort
+    19. ShellSort
+
+    Exercise 2.2
+    20. MergeSort
+
+    Exercise 2.3
+    21. QuickSort
