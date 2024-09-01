@@ -40,3 +40,11 @@ Chapter: 2 (Sorting)
 
     Exercise 2.3
     21. QuickSort
+
+    Exercise 2.4
+    22. PriorityQueues
+        i. UnorderedMax
+        ii. TopM (Priority Queue Client)
+        iii. MaxPQ (Heap Priority queue)
+        iv. Multiway
+    23. HeapSort
