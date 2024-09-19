@@ -16,3 +16,15 @@
   15. NutsAndBolts
   16. SelectionInTwoSortedArrays
   17. DecimalDominants
+  18. DynamicMedian
+  19. RandomizedPriorityQueue
+  20. TaxicabNumbers
+  21. AutoboxingAndEquals
+  22. IsBinaryTreeABST
+  23. InorderTraversalWithConstantExtraSpace
+  24. WebTracking
+  25. RedBlackBSTWithNoExtraMemory
+  26. DocumentSearch
+  27. GeneralizedQueue
+  28. FourSum
+  29. HashingWithWrongHashcodes
