@@ -48,3 +48,23 @@ Chapter: 2 (Sorting)
         iii. MaxPQ (Heap Priority queue)
         iv. Multiway
     23. HeapSort
+
+Chapter: 3 (Searching)
+    
+    Exercise 3.1
+    24. SymbolTables (Hashmaps)
+        i. SymbolTableClient
+        ii. FrequencyCounter
+        iii. SequentialSearchST
+        iv. BinarySearchST (in an ordered array)
+    
+    Exercise 3.2
+    25. BinarySearchTree (BST (Of Symbol Table))
+
+    Exercise 3.3
+    26. BalancedSearchTree (RedBlackBST)
+    
+    Exercise 3.4
+    27. HashTable
+        i. SeparateChainingHashST
+        ii. LinearProbingHashST
