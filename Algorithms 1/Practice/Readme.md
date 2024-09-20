@@ -68,3 +68,9 @@ Chapter: 3 (Searching)
     27. HashTable
         i. SeparateChainingHashST
         ii. LinearProbingHashST
+
+    Exercise 3.5
+    28. LookupCSV (Dictionary Lookup)
+    29. LookupIndex
+    30. FileIndex
+    31. SparseVector
