@@ -31,3 +31,10 @@ java -cp classes <class-fully-qualified-name>
 $ javac -d classes -sourcepath src/main/java src/main/java/com/zilaidawwab/algorithms/datastructures/dynamicarray/IntArray.java
 $ java -cp classes com.zilaidawwab.algorithms.datastructures.dynamicarray.IntArray
 ```
+
+## Data Structures
+
+### Dynamic Array
+
+- [Dynamic Array](src/main/java/com/zilaidawwab/algorithms/datastructures/dynamicarray/IntArray.java)
+
