@@ -1,3 +1,32 @@
+/*
+ * Dynamic Array API
+ * 
+ * This class implements a dynamic integer array, providing common operations 
+ * such as insertion, deletion, resizing, and more. Below are the supported APIs:
+ * 
+ * size()          - Returns the current number of elements in the array.
+ * isEmpty()       - Returns a boolean indicating whether the array is empty.
+ * get(int index)  - Returns the element at the specified index.
+ * set(int index, int element)  
+ *                 - Sets the value at the specified index to the given element.
+ * add(int element)
+ *                 - Adds the given element to the end of the array. Resizes 
+ *                   the array if necessary.
+ * removeAt(int index)
+ *                 - Removes the element at the specified index, shifting the 
+ *                   subsequent elements to the left.
+ * remove(int element)
+ *                 - Removes the first occurrence of the specified element 
+ *                   (if present) and returns a boolean indicating success.
+ * reverse()       - Reverses the order of the elements in the array.
+ * binarySearch(int key)
+ *                 - Performs a binary search for the given key in the sorted 
+ *                   portion of the array. Returns the index if found, else -1.
+ * sort()          - Sorts the elements of the array in ascending order.
+ * iterator()      - Returns an iterator to traverse the elements of the array.
+ * toString()      - Returns a string representation of the array in the format [elem1, elem2, ...].
+ */
+
 package com.zilaidawwab.algorithms.datastructures.dynamicarray;
 
 import java.util.Arrays;
