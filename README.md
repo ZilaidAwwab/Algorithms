@@ -38,3 +38,8 @@ $ java -cp classes com.zilaidawwab.algorithms.datastructures.dynamicarray.IntArr
 
 - [Dynamic Array](src/main/java/com/zilaidawwab/algorithms/datastructures/dynamicarray/IntArray.java)
 
+### Linked List
+
+- [Singly Linked List](src/main/java/com/zilaidawwab/algorithms/datastructures/linkedlist/SinglyLinkedList.java)
+- [Doubly Linked List](src/main/java/com/zilaidawwab/algorithms/datastructures/linkedlist/DoublyLinkedList.java)
+- [Circular Linked List](src/main/java/com/zilaidawwab/algorithms/datastructures/linkedlist/CircularLinkedList.java)
