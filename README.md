@@ -43,3 +43,10 @@ $ java -cp classes com.zilaidawwab.algorithms.datastructures.dynamicarray.IntArr
 - [Singly Linked List](src/main/java/com/zilaidawwab/algorithms/datastructures/linkedlist/SinglyLinkedList.java)
 - [Doubly Linked List](src/main/java/com/zilaidawwab/algorithms/datastructures/linkedlist/DoublyLinkedList.java)
 - [Circular Linked List](src/main/java/com/zilaidawwab/algorithms/datastructures/linkedlist/CircularLinkedList.java)
+
+### Stack
+
+- [Stack Interface for Implementing Stack Data Strucutre](src/main/java/com/zilaidawwab/algorithms/datastructures/stack/Stack.java)
+- [Stack made with Linked List](src/main/java/com/zilaidawwab/algorithms/datastructures/stack/ListStack.java)
+- [Stack made with Dynamic Resizeable Array](src/main/java/com/zilaidawwab/algorithms/datastructures/stack/ArrayStack.java)
+- [Stack for Integers](src/main/java/com/zilaidawwab/algorithms/datastructures/stack/IntStack.java)
