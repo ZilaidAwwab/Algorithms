@@ -50,3 +50,7 @@ $ java -cp classes com.zilaidawwab.algorithms.datastructures.dynamicarray.IntArr
 - [Stack made with Linked List](src/main/java/com/zilaidawwab/algorithms/datastructures/stack/ListStack.java)
 - [Stack made with Dynamic Resizeable Array](src/main/java/com/zilaidawwab/algorithms/datastructures/stack/ArrayStack.java)
 - [Stack for Integers](src/main/java/com/zilaidawwab/algorithms/datastructures/stack/IntStack.java)
+
+### Queue
+
+- [Queue](src/main/java/com/zilaidawwab/algorithms/datastructures/queue/Queue.java)
