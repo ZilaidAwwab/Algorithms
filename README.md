@@ -54,3 +54,11 @@ $ java -cp classes com.zilaidawwab.algorithms.datastructures.dynamicarray.IntArr
 ### Queue
 
 - [Queue](src/main/java/com/zilaidawwab/algorithms/datastructures/queue/Queue.java)
+
+### Priority Queue (Heaps)
+
+- [Binary Heap](src/main/java/com/zilaidawwab/algorithms/datastructures/priorityqueue/BinaryHeap.java)
+- [Binary Heap Quick Removals (Using HashTables)](src/main/java/com/zilaidawwab/algorithms/datastructures/priorityqueue/BinaryHeapQuickRemovals.java)
+- [Min D Heap](src/main/java/com/zilaidawwab/algorithms/datastructures/priorityqueue/MinDHeap.java)
+- [Min Indexed Binary Heap](src/main/java/com/zilaidawwab/algorithms/datastructures/priorityqueue/MinIndexedBinaryHeap.java)
+- [Min Indexed D Heap](src/main/java/com/zilaidawwab/algorithms/datastructures/priorityqueue/MinIndexedDHeap.java)
