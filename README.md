@@ -66,3 +66,8 @@ $ java -cp classes com.zilaidawwab.algorithms.datastructures.dynamicarray.IntArr
 ### Union Find
 
 - [Union Find](src/main/java/com/zilaidawwab/algorithms/datastructures/unionfind/UnionFind.java)
+
+### Binary Search Tree
+
+- [Binary Search Tree](src/main/java/com/zilaidawwab/algorithms/datastructures/binarysearchtree/BinarySearchTree.java)
+- [Tree Traversal Order](src/main/java/com/zilaidawwab/algorithms/datastructures/binarysearchtree/TreeTraversalOrder.java)
