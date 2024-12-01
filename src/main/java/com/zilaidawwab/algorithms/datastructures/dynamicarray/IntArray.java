@@ -34,6 +34,15 @@ import java.util.Iterator;
 
 public class IntArray implements Iterable<Integer> {
 
+    /**
+     * private → The variable DEFAULT_CAP is only accessible within the class where it is declared.
+     * static → The variable belongs to the class itself rather than any instance of the class.
+     * final → The value of DEFAULT_CAP cannot be changed once assigned.
+     * int DEFAULT_CAP → The variable DEFAULT_CAP is of type int (integer).
+     * 1 << 3 → This is a bitwise left shift operation, meaning:
+     * 1 in binary is 00000001
+     * Left shifting (<<) by 3 positions results in 00001000, which is 8 in decimal.
+     */
     private static final int DEFAULT_CAP = 1 << 3;
 
     public int[] arr;
@@ -90,6 +99,8 @@ public class IntArray implements Iterable<Integer> {
 
     // Removes the element at a specified index in the array
     public void removeAt(int rm_index) {
+        // This statement says to start copying elements from destPos and paste them on srcPos, and the number of
+        // elements to be copied are equal to length(last arg)
         System.arraycopy(arr, rm_index + 1, arr, rm_index, len - rm_index - 1);
         --len;
         --capacity;
